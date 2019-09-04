@@ -1,0 +1,19 @@
+{
+  "name": "nodejscurso",
+  "version": "1.0.0",
+  "description": "Practica para Nan",
+  "main": "dependecyAnalizer.js",
+  "dependencies": {
+    "find-in-files": "^0.5.0",
+    "node-fetch": "^2.6.0"
+  },
+  "devDependencies": {},
+  "scripts": {
+    "start": "node dependecyAnalizer"
+  },
+  "keywords": [
+    "nodejs"
+  ],
+  "author": "echu",
+  "license": "ISC"
+}
