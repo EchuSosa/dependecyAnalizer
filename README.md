@@ -1,4 +1,4 @@
-# Dependecy Analizer
+# Dependecy Analyzer
 Problem: 
 There is a list of websites in a file (websites.csv), and we need to know the js dependencies for each website. Websites’ html content will be available from two sources, one from the local file system and the other one using http resources.
  
